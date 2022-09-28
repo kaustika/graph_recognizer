@@ -28,5 +28,5 @@
 - Для улучшения восприятия работы алгоритма вместе со словарем будет опционально возврщаться изображение графа, построенное по распознанному списку смежности.
 
 ### Примеры входных данных
-С примерами входных данных можно ознакомиться по [ссылке]([https://link-url-here.org](https://drive.google.com/drive/folders/1ZeMbPyzGvAsCqw1YWOFe13FHMB23b87q?usp=sharing)).
+С примерами входных данных можно ознакомиться по [ссылке](https://drive.google.com/drive/folders/1ZeMbPyzGvAsCqw1YWOFe13FHMB23b87q?usp=sharing).
 
