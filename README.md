@@ -31,4 +31,3 @@
 
 ### Примеры входных данных
 С примерами входных данных можно ознакомиться по [ссылке](https://drive.google.com/drive/folders/1ZeMbPyzGvAsCqw1YWOFe13FHMB23b87q?usp=sharing).
-
