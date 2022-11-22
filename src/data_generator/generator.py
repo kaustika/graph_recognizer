@@ -30,7 +30,7 @@ def generate_data(n: int):
         adj_list = create_adj_list(ways, neighbours)
 
         time_str = time.strftime("%Y%m%d_%H%M%S")
-        working_dir = os.path.abspath("data")
+        working_dir = "data"
         file_prefix = "graph_" + time_str + "_"
 
         filepath = os.path.join(working_dir, file_prefix)
