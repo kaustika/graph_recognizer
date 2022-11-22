@@ -42,7 +42,7 @@ def generate_data(n: int):
             if is_connected(adj_list):
                 pos_info = draw_graph(filepath_cur, adj_list)
 
-                node_bboxes = obtain_node_bboxes(filepath_cur, pos_info)
+                node_bboxes = obtain_node_bboxes(filepath_cur, pos_info, True)
                 edge_bboxes = obtain_edge_bboxes(filepath_cur, adj_list, pos_info)
 
                 data_to_pickle(filepath_cur, adj_list)
